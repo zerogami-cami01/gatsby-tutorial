@@ -21,7 +21,9 @@
     I was able to do it without tripping.
 
     1. [part zero error] node-gpy error after npm install 
-    - [Macでyarn installしたらnode-gypのエラーが出た]  `https://qiita.com/hppRC/items/a01e33a5c890f7b2c125` solved for me thanks
+        - [Macでyarn installしたらnode-gypのエラーが出た] 
+        `https://qiita.com/hppRC/items/a01e33a5c890f7b2c125` solved for me thanks.
 
     2. [part one trouble] to get lost console.log() message
-    - [console.log("このログ、埋もれてない？")]  `https://qiita.com/mooriii/items/18e0e09e58d787158c43` solved for me thanks
+        - [console.log("このログ、埋もれてない？")] 
+        `https://qiita.com/mooriii/items/18e0e09e58d787158c43` solved for me thanks.
